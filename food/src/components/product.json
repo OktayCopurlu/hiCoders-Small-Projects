@@ -1,0 +1,85 @@
+[{
+
+        "yemekler": [{
+                "id": 1,
+                "name": "KayseriMantisi",
+                "fiyat": "10chf",
+                "zaman": "1 gün önceden sipariş alinir",
+                "teslimat": "adrese teslim",
+                "aciklama": "%100 dana etinden, kücük taneli hakiki Kayseri mantısı",
+                "resim": "https://www.misssgibi.com/media/scaled/2020/03/30/manti-thumb-3-1x1-w1600.jpg"
+            },
+            {
+                "id": 2,
+                "name": "İzmirMantisi",
+                "fiyat": "10chf",
+                "zaman": "1 gün önceden sipariş alinir",
+                "teslimat": "adrese teslim",
+                "aciklama": "%100 dana etinden, kücük taneli hakiki Kayseri mantısı",
+                "resim": "https://www.misssgibi.com/media/scaled/2020/03/30/manti-thumb-3-1x1-w1600.jpg"
+            }, {
+                "id": 3,
+                "name": "Yaprak Sarmasi",
+                "fiyat": "10chf",
+                "zaman": "1 gün önceden sipariş alinir",
+                "teslimat": "adrese teslim",
+                "aciklama": "%100 dana etinden, kücük taneli hakiki Kayseri mantısı",
+                "resim": "https://www.misssgibi.com/media/scaled/2020/03/30/manti-thumb-3-1x1-w1600.jpg"
+            },
+            {
+                "id": 4,
+                "name": "KayseriMantisi",
+                "fiyat": "10chf",
+                "zaman": "1 gün önceden sipariş alinir",
+                "teslimat": "adrese teslim",
+                "aciklama": "%100 dana etinden, kücük taneli hakiki Kayseri mantısı",
+                "resim": "https://www.misssgibi.com/media/scaled/2020/03/30/manti-thumb-3-1x1-w1600.jpg"
+            },
+            {
+                "id": 5,
+                "name": "İzmirMantisi",
+                "fiyat": "10chf",
+                "zaman": "1 gün önceden sipariş alinir",
+                "teslimat": "adrese teslim",
+                "aciklama": "%100 dana etinden, kücük taneli hakiki Kayseri mantısı",
+                "resim": "https://www.misssgibi.com/media/scaled/2020/03/30/manti-thumb-3-1x1-w1600.jpg"
+            }, {
+                "id": 6,
+                "name": "Yaprak Sarmasi",
+                "fiyat": "10chf",
+                "zaman": "1 gün önceden sipariş alinir",
+                "teslimat": "adrese teslim",
+                "aciklama": "%100 dana etinden, kücük taneli hakiki Kayseri mantısı",
+                "resim": "https://www.misssgibi.com/media/scaled/2020/03/30/manti-thumb-3-1x1-w1600.jpg"
+            },
+            {
+                "id": 7,
+                "name": "KayseriMantisi",
+                "fiyat": "10chf",
+                "zaman": "1 gün önceden sipariş alinir",
+                "teslimat": "adrese teslim",
+                "aciklama": "%100 dana etinden, kücük taneli hakiki Kayseri mantısı",
+                "resim": "https://www.misssgibi.com/media/scaled/2020/03/30/manti-thumb-3-1x1-w1600.jpg"
+            },
+            {
+                "id": 8,
+                "name": "İzmirMantisi",
+                "fiyat": "10chf",
+                "zaman": "1 gün önceden sipariş alinir",
+                "teslimat": "adrese teslim",
+                "aciklama": "%100 dana etinden, kücük taneli hakiki Kayseri mantısı",
+                "resim": "https://www.misssgibi.com/media/scaled/2020/03/30/manti-thumb-3-1x1-w1600.jpg"
+            }, {
+                "id": 9,
+                "name": "Yaprak Sarmasi",
+                "fiyat": "10chf",
+                "zaman": "1 gün önceden sipariş alinir",
+                "teslimat": "adrese teslim",
+                "aciklama": "%100 dana etinden, kücük taneli hakiki Kayseri mantısı",
+                "resim": "https://www.misssgibi.com/media/scaled/2020/03/30/manti-thumb-3-1x1-w1600.jpg"
+            }
+        ]
+
+    }
+
+]
